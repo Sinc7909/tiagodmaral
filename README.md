@@ -1,6 +1,6 @@
 # Olá, Mundo! 👋 Eu sou Tiago Alves
 
-[!Capa do Perfil](https://th.bing.com/th/id/OIG3.v77F_l.yUs996ZN03Rfp?w=1024&h=1024&rs=1&pid=ImgDetMain)
+![Capa do Perfil](https://th.bing.com/th/id/OIG3.v77F_l.yUs996ZN03Rfp?w=1024&h=1024&rs=1&pid=ImgDetMain)
 
 !Foto de Perfil
 
